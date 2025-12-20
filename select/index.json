@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "遠く遠く",
+  "base_artist": "Noriyuki Makihara",
+  "createdAt": "2025-12-20T07:53:00.436003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/01_遠く遠く_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/02_遠く遠く_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/03_遠く遠く_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遠く遠く - Tohku Tohku",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/04_遠く遠く_-_Tohku_Tohku_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遠く遠く (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/05_遠く遠く_(2012_Remaster)_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/06_遠く遠く_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "Sotte Bosse",
+      "has_synced": false,
+      "path": "select/07_遠く遠く_Sotte_Bosse.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "遠く遠く '06 ヴァージョン",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/08_遠く遠く_'06_ヴァージョン_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "遠く遠く",
+      "artist": "Noriyuki Makihara",
+      "has_synced": false,
+      "path": "select/09_遠く遠く_Noriyuki_Makihara.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "遠く遠く - 桜ヴァージョン 2012 Remaster",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/10_遠く遠く_-_桜ヴァージョン_2012_Remaster_Various.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "遠く遠く - 2012 Remaster",
+      "artist": "Noriyuki Makihara",
+      "has_synced": false,
+      "path": "select/11_遠く遠く_-_2012_Remaster_Noriyuki_Makihara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_02_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_03_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_04_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "遠く 遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_05_遠く_遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_06_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_07_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_08_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_09_遠く遠く_槇原_敬之.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "遠く遠く",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_10_遠く遠く_槇原_敬之.txt"
+    }
+  ]
+}
